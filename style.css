@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+div {
+	padding: 0;
+	margin:  0 auto;
+	line-height: 0;
+	border: none;
+}
+
+div.cell {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	border: 1px solid gray;
+}
